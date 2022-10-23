@@ -24,7 +24,6 @@ def insertionSort1(n, arr):
     arr[current_index] = key
     print(*arr)
 
-insertionSort1(5,[1,2,4,5,3])
 
 if __name__ == '__main__':
     n = int(input().strip())
